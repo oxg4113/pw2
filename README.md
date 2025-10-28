@@ -27,6 +27,7 @@ Implements the following interactive functions:
 ![screenshot](images/screenshot2.png)
 ![screenshot](images/screenshot3.png)
 ![screenshot](images/screenshot4.png)
+![screenshot](images/screenshot5.png)
 
 ## Installation
 1. Clone this repository
